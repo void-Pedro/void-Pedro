@@ -3,11 +3,7 @@
 - 🎓 Computer Science - UFSCar;
 - 📚 Python (Pandas, Scikit), HTML/CSS, JS, NodeJs, MySQL, Java, C, C#, PHP;
 - 🌱 Always improving my programming skills. Information Security and Data Science enthusiast
-  
-<div>
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=void-Pedro&theme=tokyonight" style="width: 600px; height: 250px;"/>
-  <img width="431cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=void-Pedro&layout=compact&theme=tokyonight&langs_count=2">
-</div>
+
 
 ##
 <div style="display: inline block">
